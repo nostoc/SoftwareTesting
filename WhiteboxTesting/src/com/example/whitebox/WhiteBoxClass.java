@@ -2,7 +2,6 @@ package com.example.whitebox;
 
 /**
  * White-box Testing examples explained by the Aritmethic Exception
- * Written by Peri Hill on Sat, March 26th 2022.
  *
  * This examples show that even a method 100% statement/branch coverage achieved,
  * it can still have errors and cause exceptions.
